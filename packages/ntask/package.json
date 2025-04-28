@@ -1,0 +1,17 @@
+{
+	"name": "ntask",
+	"version": "1.0.0",
+	"description": "Projeto restapi",
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": ["restapi"],
+	"author": "Robson Candido dos Santos Alves",
+	"license": "ISC",
+	"dependencies": {
+		"consign": "^0.1.6",
+		"express": "^5.1.0"
+	}
+}

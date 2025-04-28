@@ -1,0 +1,14 @@
+{
+	"name": "node-book",
+	"version": "1.0.0",
+	"description": "Este projeto contém as praticas de estudo do livro de Node publicado pela Casa do Código",
+	"main": "index.mjs",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["restapi", "orm"],
+	"author": "Robson Candido dos Santos Alves",
+	"license": "ISC",
+	"workspaces": ["packages/ntask"]
+}
