@@ -17,3 +17,4 @@ npm run test --workspace=a --workspace=b
 
 # Referências
 - [npm workspaces](hhttps://docs.npmjs.com/cli/v11/using-npm/workspaces)
+- [routing](https://expressjs.com/pt-br/guide/routing.html)
