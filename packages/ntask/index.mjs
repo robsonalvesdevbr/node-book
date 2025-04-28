@@ -9,7 +9,7 @@ app.set("json spaces", 2);
 app.use(express.json());
 
 app.use((req, res, next) => {
-	console.log("Horário: ", Date.now());
+	console.log(`Path: ${req.path}`);
 	next();
 });
 
