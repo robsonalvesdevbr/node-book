@@ -4,11 +4,9 @@
 	"description": "Projeto restapi",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.mjs"
+		"start": "DEBUG=express:* node index.mjs"
 	},
-	"keywords": [
-		"restapi"
-	],
+	"keywords": ["restapi"],
 	"author": "Robson Candido dos Santos Alves",
 	"license": "ISC",
 	"dependencies": {
