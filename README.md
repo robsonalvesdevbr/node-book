@@ -6,7 +6,6 @@ npm init --include-workspace-root -workspace packages/ntask
 # Instalação de dependências
 ```bash
 npm install --save express --workspace ntask
-npm install --save consign --workspace ntask
 ```
 
 # Executando o projeto
